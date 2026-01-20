@@ -27,7 +27,7 @@ Weather API
 
 📦 Installation
 
-git clone https://github.com/your-username/weather-app.git
+git clone 
 
 cd weather-app
 
